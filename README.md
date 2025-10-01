@@ -15,7 +15,11 @@
       <img height="200" alt="Avatar photo of KK10" src="https://i.pinimg.com/736x/67/56/7e/67567ef426a226b5349c9153c4fc212b.jpg" alt="Avatar photo of KK10">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+    
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&pause=1000&color=621DF7&width=435&lines=Hi+%2C+i+am+Zegion;+Welcom+to+my+Highub+Profile+;CS2%2C+Valorant++and+Futball+Lover;Software+and+Computer+Enginier;Music+and+Programing+Lover;Hardworking+and+Ambitious;Gym+Freak" alt="Typing SVG" />
+  </a>
+</div>
   </div>
 </div>
 
