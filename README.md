@@ -34,7 +34,7 @@
 
 <picture> <img align="right" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width = 300px></picture>
 
-- :school: I am a `sixth-grade` at [Technological University of Peru .](https://cst.buaa.edu.cn/) in [(UTP)](https://ev.buaa.edu.cn/)
+- :school: I am a `sixth-grade` at [Technological University of Peru .](https://utp.edu.pe/?utm_source=google&utm_medium=cpc&utm_campaign=performance-google_ads-lead_web-search-aon-aon-general-solo_sedes-todas-brand_utp_exacta&utm_content=brand_utp&gclsrc=aw.ds&gad_source=1&gad_campaignid=22808154893&gbraid=0AAAAADMMQ6VeBCmM9SeidCmgwPZAmdgJ9&gclid=CjwKCAjw_-3GBhAYEiwAjh9fUPQK3-LJlq2kdbgdSWOgKj3m_d3gKQ1jTLX-atFXap3mxr9JHAIfahoCoI8QAvD_BwE) in [(UTP)](https://utp.edu.pe/pregrado/facultad-de-ingenieria/ingenieria-de-sistemas-e-informatica)
 - :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
 - :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=Zegion&color=EA4335&style=flat-square)](mailto:amircardenas995@gmail.com)
